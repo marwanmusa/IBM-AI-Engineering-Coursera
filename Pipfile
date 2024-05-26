@@ -9,6 +9,7 @@ numpy = "*"
 ipykernel = "*"
 keras = "*"
 pyarrow = "*"
+matplotlib = "*"
 
 [dev-packages]
 
