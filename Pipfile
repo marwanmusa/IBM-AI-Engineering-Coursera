@@ -11,6 +11,7 @@ pyarrow = "*"
 matplotlib = "*"
 scipy = "*"
 tensorflow = "*"
+skillsnetwork = "*"
 
 [dev-packages]
 
