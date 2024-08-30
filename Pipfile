@@ -12,6 +12,7 @@ matplotlib = "*"
 scipy = "*"
 tensorflow = "*"
 skillsnetwork = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
