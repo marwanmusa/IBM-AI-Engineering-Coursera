@@ -163,3 +163,4 @@ cython_debug/
 Dataset/
 *.DS_Store
 .csv
+data/
