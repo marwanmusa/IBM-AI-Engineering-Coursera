@@ -13,6 +13,7 @@ scipy = "*"
 tensorflow = "*"
 skillsnetwork = "*"
 scikit-learn = "*"
+opencv-python = "*"
 
 [dev-packages]
 
